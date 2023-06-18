@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-v3.11.x-FFD43B) ![AWS-RDS](https://img.shields.io/badge/AWS-RDS-4942E4) ![MySQL](https://img.shields.io/badge/MySQL-v8.0-4F709C) ![MySQLWB](https://img.shields.io/badge/MySQLWorkbench-v8.0-213555)
+![Python](https://img.shields.io/badge/Python-v3.11.x-FFD43B) ![RHEL](https://img.shields.io/badge/RHEL-v9.x-CC0000) ![AWS-RDS](https://img.shields.io/badge/AWS-RDS-4942E4) ![MySQL](https://img.shields.io/badge/MySQL-v8.0-4F709C) ![MySQLWB](https://img.shields.io/badge/MySQLWorkbench-v8.0-213555)
 
 # Python-Script-To-Query-Databases
 
